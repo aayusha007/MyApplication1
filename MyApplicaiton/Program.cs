@@ -4,7 +4,7 @@ namespace MyApplication
 {
     class Player
     {
-        public string name;
+        public string name { get; set; } = string.Empty;
         public string type;
         public string jersey;
         public float total_price;

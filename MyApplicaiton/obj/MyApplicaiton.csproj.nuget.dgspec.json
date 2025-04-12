@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\KOI\\MyApplicaiton\\MyApplicaiton\\MyApplicaiton.csproj": {}
+    "C:\\KOI\\MyApplication1\\MyApplicaiton\\MyApplicaiton.csproj": {}
   },
   "projects": {
-    "C:\\KOI\\MyApplicaiton\\MyApplicaiton\\MyApplicaiton.csproj": {
+    "C:\\KOI\\MyApplication1\\MyApplicaiton\\MyApplicaiton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KOI\\MyApplicaiton\\MyApplicaiton\\MyApplicaiton.csproj",
+        "projectUniqueName": "C:\\KOI\\MyApplication1\\MyApplicaiton\\MyApplicaiton.csproj",
         "projectName": "MyApplicaiton",
-        "projectPath": "C:\\KOI\\MyApplicaiton\\MyApplicaiton\\MyApplicaiton.csproj",
+        "projectPath": "C:\\KOI\\MyApplication1\\MyApplicaiton\\MyApplicaiton.csproj",
         "packagesPath": "C:\\Users\\Sarth\\.nuget\\packages\\",
-        "outputPath": "C:\\KOI\\MyApplicaiton\\MyApplicaiton\\obj\\",
+        "outputPath": "C:\\KOI\\MyApplication1\\MyApplicaiton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sarth\\AppData\\Roaming\\NuGet\\NuGet.Config",
