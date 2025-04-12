@@ -1,0 +1,15 @@
+C:\KOI\MyApplicaiton\MyApplicaiton\bin\Debug\net6.0\MyApplicaiton.exe
+C:\KOI\MyApplicaiton\MyApplicaiton\bin\Debug\net6.0\MyApplicaiton.deps.json
+C:\KOI\MyApplicaiton\MyApplicaiton\bin\Debug\net6.0\MyApplicaiton.runtimeconfig.json
+C:\KOI\MyApplicaiton\MyApplicaiton\bin\Debug\net6.0\MyApplicaiton.dll
+C:\KOI\MyApplicaiton\MyApplicaiton\bin\Debug\net6.0\MyApplicaiton.pdb
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\MyApplicaiton.csproj.AssemblyReference.cache
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\MyApplicaiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\MyApplicaiton.AssemblyInfoInputs.cache
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\MyApplicaiton.AssemblyInfo.cs
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\MyApplicaiton.csproj.CoreCompileInputs.cache
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\MyApplicaiton.dll
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\refint\MyApplicaiton.dll
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\MyApplicaiton.pdb
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\MyApplicaiton.genruntimeconfig.cache
+C:\KOI\MyApplicaiton\MyApplicaiton\obj\Debug\net6.0\ref\MyApplicaiton.dll
